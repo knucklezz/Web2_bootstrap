@@ -1,0 +1,28 @@
+body {
+    background: url("../images/Test.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-top: 590px;
+}
+#intro {
+    background-color: #ffffff;
+    border-top: 1px solid black;
+    padding: 30px;
+}
+.input-group {
+    width: 60%;
+}
+table img {
+    border-radius: 7px;
+}
+#votingh1 {
+    text-align: center;
+    padding: 40px;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
